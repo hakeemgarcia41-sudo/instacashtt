@@ -1,0 +1,48 @@
+{
+    "users": {
+        "hgarcia1@gmail.com": {
+            "name": "Hakeem Garcia",
+            "password": "123456",
+            "balance": 1000
+        },
+        "cashtt@gmail.com": {
+            "name": "Cash TT",
+            "password": "123456",
+            "balance": 1200
+        },
+        "merchant@gmail.com": {
+            "name": "Merchant TT",
+            "password": "123456",
+            "balance": 5000
+        },
+        "testuser1@gmail.com": {
+            "name": "Test User 1",
+            "password": "123456",
+            "balance": 800
+        },
+        "testuser2@gmail.com": {
+            "name": "Test User 2",
+            "password": "123456",
+            "balance": 950
+        },
+        "testuser3@gmail.com": {
+            "name": "Test User 3",
+            "password": "123456",
+            "balance": 500
+        },
+        "testuser4@gmail.com": {
+            "name": "Test User 4",
+            "password": "123456",
+            "balance": 700
+        },
+        "testuser5@gmail.com": {
+            "name": "Test User 5",
+            "password": "123456",
+            "balance": 300
+        }
+    },
+
+    "transactions": [
+
+    ]
+}
